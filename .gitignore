@@ -1,0 +1,9 @@
+.idea/
+cache/
+vendor/
+build/
+tests/
+results/
+.env
+*.bak
+__pycache__/
